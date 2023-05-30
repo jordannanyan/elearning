@@ -1,0 +1,9 @@
+.embed-responsive {
+    border: 1px solid #ddd !important;
+    border-radius: 4px !important;
+    overflow: hidden !important;
+    max-width: 800px !important;
+    /* Adjust the max-width as per your needs */
+    margin: 0 auto !important;
+    /* Center the container horizontally */
+}
